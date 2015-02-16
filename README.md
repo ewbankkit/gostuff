@@ -1,0 +1,2 @@
+# gostuff
+Hacking on golang
